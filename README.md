@@ -4,7 +4,7 @@
  
   <br/>
 
-  <h3><b>My-Enumerable</b></h3>
+  <h3><b>Rspec Test</b></h3>
 
 </div>
 
@@ -13,7 +13,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[My-Enumerable\] ](#-my-enumerable-)
+- [📖 \[Rspec-Tests\] ](#-rspec-tests-)
   - [🛠 Built With](#-built-with)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -21,7 +21,8 @@
   - [Prerequisites](#prerequisites)
     - [Setup](#setup)
   - [Usage](#usage)
-  - [👥 Authors ](#-authors-)
+  - [Run the tests](#run-the-tests)
+  - [👤 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -31,11 +32,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [My-Enumerable] <a name="about-project"></a>
+# 📖 [Rspec-Tests] <a name="about-project"></a>
 
 
-**[My-Enumerable]** In this project we learn how to use a module inside a class.
-
+**[Rspec-Test]** RSpec is a testing framework for the Ruby programming language. It is commonly used for unit testing, as well as for testing the behavior of web applications. It is a Domain Specific Language (DSL) that provides a simple and readable syntax for writing tests.
 ## 🛠 Built With 
 <a name="built-with">Ruby</a>
 <br>
@@ -55,6 +55,17 @@
 
 ### Key Features <a name="key-features"></a>
 
+- Rspec class type matcher
+- Rspec class instance matcher
+- Rspec class instance variable matcher
+- Rspec comparision matcher test
+- Rspec error matcher test
+- Rspec mock test
+- Rspec stub test
+- Rspec string matcher test
+- Rspec array matcher test
+- Rspec hook matcher test
+- Rspec true/false matcher test
 
 <!-- GETTING STARTED -->
 
@@ -68,27 +79,22 @@ Have `Ruby`, and `Git` installed
 
 Clone this repository to your desired folder:
 
-- git clone https://github.com/Miliyonayalew/My-Enumarble.git
-- cd My-Enumarble
+- git clone https://github.com/Miliyonayalew/Rspec-Practice.git
+- cd Rspec-Practice
 
 ## Usage
-ruby `my_list.rb`
 
+## Run the tests
+
+- Run `rspec` in the terminal to run the tests
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👤 Authors <a name="authors"></a>
 
-
-👤 **Jonathan Kayizzi**
-
-- GitHub: [@JonahKayizzi](https://github.com/JonahKayizzi)
-- Twitter: [@JonahKayizzi](https://twitter.com/JonahKayizzi)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jonathan-kayizzi/)
-
-👤 **Miliyon Ayalew**
+ **Miliyon Ayalew**
 
 - GitHub: [@Miliyonayalew](https://github.com/Miliyonayalew/)
 - Twitter: [@Miliyonayalew](https://twitter.com/MilaAyalew)
